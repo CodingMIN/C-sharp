@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\bin\Debug\4.6.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\bin\Debug\4.6.exe
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\bin\Debug\4.6.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\obj\Debug\4.6.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\obj\Debug\4.6.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\obj\Debug\4.6.exe
+D:\git\C-sharp\C-sharp-SchoolBook\4.6\obj\Debug\4.6.pdb

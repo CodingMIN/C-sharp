@@ -1,0 +1,7 @@
+D:\git\C-sharp\2.1\bin\Debug\2.1.exe.config
+D:\git\C-sharp\2.1\bin\Debug\2.1.exe
+D:\git\C-sharp\2.1\bin\Debug\2.1.pdb
+D:\git\C-sharp\2.1\obj\Debug\2.1.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\2.1\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\2.1\obj\Debug\2.1.exe
+D:\git\C-sharp\2.1\obj\Debug\2.1.pdb
