@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\bin\Debug\5.8.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\bin\Debug\5.8.exe
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\bin\Debug\5.8.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\obj\Debug\5.8.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\obj\Debug\5.8.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\obj\Debug\5.8.exe
+D:\git\C-sharp\C-sharp-SchoolBook\5.8\obj\Debug\5.8.pdb
