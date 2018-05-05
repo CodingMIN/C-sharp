@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\bin\Debug\6.12.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\bin\Debug\6.12.exe
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\bin\Debug\6.12.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\obj\Debug\6.12.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\obj\Debug\6.12.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\obj\Debug\6.12.exe
+D:\git\C-sharp\C-sharp-SchoolBook\6.12\obj\Debug\6.12.pdb
