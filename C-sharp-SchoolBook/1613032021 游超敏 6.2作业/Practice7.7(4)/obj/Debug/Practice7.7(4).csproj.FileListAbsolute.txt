@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\bin\Debug\Practice7.7(4).exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\bin\Debug\Practice7.7(4).exe
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\bin\Debug\Practice7.7(4).pdb
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\obj\Debug\Practice7.7(4).csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\obj\Debug\Practice7.7(4).csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\obj\Debug\Practice7.7(4).exe
+D:\git\C-sharp\C-sharp-SchoolBook\Practice7.7(4)\obj\Debug\Practice7.7(4).pdb

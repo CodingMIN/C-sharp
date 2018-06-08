@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\bin\Debug\MyCM.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\bin\Debug\MyCM.exe
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\bin\Debug\MyCM.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\obj\Debug\MyCM.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\obj\Debug\MyCM.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\obj\Debug\MyCM.exe
+D:\git\C-sharp\C-sharp-SchoolBook\MyCM\obj\Debug\MyCM.pdb

@@ -1,0 +1,10 @@
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\bin\Debug\ChaoM.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\bin\Debug\ChaoM.exe
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\bin\Debug\ChaoM.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\bin\Debug\Mylib.dll
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\bin\Debug\Mylib.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\obj\Debug\ChaoM.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\obj\Debug\ChaoM.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\obj\Debug\ChaoM.csproj.CopyComplete
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\obj\Debug\ChaoM.exe
+D:\git\C-sharp\C-sharp-SchoolBook\ChaoM\obj\Debug\ChaoM.pdb

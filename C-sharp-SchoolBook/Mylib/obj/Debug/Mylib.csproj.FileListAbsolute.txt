@@ -1,0 +1,6 @@
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\bin\Debug\Mylib.dll
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\bin\Debug\Mylib.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\obj\Debug\Mylib.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\obj\Debug\Mylib.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\obj\Debug\Mylib.dll
+D:\git\C-sharp\C-sharp-SchoolBook\Mylib\obj\Debug\Mylib.pdb
