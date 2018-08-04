@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\obj\Debug\kaoshi.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\obj\Debug\kaoshi.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\bin\Debug\kaoshi.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\bin\Debug\kaoshi.exe
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\bin\Debug\kaoshi.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\obj\Debug\kaoshi.exe
+D:\git\C-sharp\C-sharp-SchoolBook\kaoshi\obj\Debug\kaoshi.pdb

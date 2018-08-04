@@ -1,0 +1,6 @@
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\bin\Debug\7.18.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\bin\Debug\7.18.exe
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\bin\Debug\7.18.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\obj\Debug\7.18.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\obj\Debug\7.18.exe
+D:\git\C-sharp\C-sharp-SchoolBook\7.18\obj\Debug\7.18.pdb

@@ -1,0 +1,12 @@
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\bin\Debug\4.6-5.exe.config
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\bin\Debug\4.6-5.exe
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\bin\Debug\4.6-5.pdb
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\obj\Debug\4.6-5.csprojResolveAssemblyReference.cache
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\obj\Debug\4.6-5.exe
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\4.6-4\4.6-5\obj\Debug\4.6-5.pdb
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\bin\Debug\4.6-5.exe.config
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\obj\Debug\4.6-5.exe
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\obj\Debug\4.6-5.pdb
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\bin\Debug\4.6-5.exe
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\bin\Debug\4.6-5.pdb
+C:\Users\雍健\Documents\Visual Studio 2013\Projects\C#\C#作业\4.6-5\obj\Debug\4.6-5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\git\C-sharp\C-sharp-SchoolBook\MySpace\obj\Debug\MySpace.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\MySpace\obj\Debug\MySpace.csproj.CoreCompileInputs.cache
