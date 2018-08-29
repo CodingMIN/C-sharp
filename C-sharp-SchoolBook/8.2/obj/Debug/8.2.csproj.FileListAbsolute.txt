@@ -1,0 +1,7 @@
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\bin\Debug\8.2.exe.config
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\bin\Debug\8.2.exe
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\bin\Debug\8.2.pdb
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\obj\Debug\8.2.csprojResolveAssemblyReference.cache
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\obj\Debug\8.2.csproj.CoreCompileInputs.cache
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\obj\Debug\8.2.exe
+D:\git\C-sharp\C-sharp-SchoolBook\8.2\obj\Debug\8.2.pdb
